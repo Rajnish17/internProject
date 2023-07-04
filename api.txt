@@ -1,0 +1,16 @@
+http://localhost:8080/user/register
+http://localhost:8080/user/showuser
+http://localhost:8080/user/deleteuser
+http://localhost:8080/user/edituser
+
+
+
+
+//work 
+Nav
+Hero Section
+Brand
+Features
+portfolio
+Contact us 
+Footer
